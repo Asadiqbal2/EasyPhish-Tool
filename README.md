@@ -42,6 +42,8 @@ This tool provides a simple web interface, real-time delivery statistics, and su
 git clone https://github.com/yourusername/email-sending-dashboard.git
 cd email-sending-dashboard
 
+````
+
 ### 2. Install Dependencies
 pip install flask
 
