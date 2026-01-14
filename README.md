@@ -45,11 +45,15 @@ cd email-sending-dashboard
 ````
 
 ### 2. Install Dependencies
+```bash
 pip install flask
-
+````
 ### 3. Run the Application
+```bash
 python PhishSim-Tool.py
-
+````
 ### 4. Access the Web Interface
 Open your browser and navigate to:
+```bash
 http://localhost:5000
+````
